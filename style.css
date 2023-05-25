@@ -64,3 +64,10 @@ button:hover{
     align-items: center;
     background-color: red;
 }
+
+
+@media screen and (max-width:600px) {
+    .container{
+        width: 100%;
+    }
+}
